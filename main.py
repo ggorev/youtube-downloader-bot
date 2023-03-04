@@ -2,7 +2,7 @@ import os
 from aiogram import *
 from pytube import YouTube
 
-bot = Bot('6141865683:AAG7lsl2P1rGuJDt5mJdxlhyRiu8OYBJpzI')
+bot = Bot(TOKEN)
 dp = Dispatcher(bot)
 
 
